@@ -1,0 +1,38 @@
+{
+    "appName":"Gadwelha",
+    "addNoteLable":"What do we have today?",
+    "addNoteEror":"Field is required",
+    "addNoteButton":"Schedule the task",
+    "setting":"Setting",
+    "arLanguage":"Arabic",
+    "enLanguage":"English",
+    "theme":"theme",
+    "darkTheme":"Dark Theme",
+    "lightTheme":"Light Theme",
+    "language":"language",
+    "messageLable":"Message Content",
+    "repeatAlert":"Repeat alert",
+    "repeatHint":"When you choose the alert on Friday at 1 o’clock and activate this option, you will receive the notification every Friday at 1",
+    "schedulingButton":"Scheduling",
+    "schedulingSuccess":"The task has been scheduled successfully !",
+    "schedulingError":"Date error",
+    "eyeSafetyAlert":"Eye Safety Alert",
+    "eyeSafetyAlertDescription":"For eye comfort, you need to apply the 20-20 rule, whereby you sit for 20 minutes in front of the computer and then look at anything far away from you for 20 seconds. When you activate this option, the application will send you a notification every 20 minutes to look away from the computer screen.",
+    "backVertebraeSafetyAlerts":"Back Vertebrae Safety Alerts",
+    "backVertebraeSafetyAlertsDescription":"To rest the back vertebrae, you must take a break for at least 10 minutes every hour of sitting. When you activate this option, the program will send you a notification to take a break for 10 minutes every hour.",
+    "messageForSuccess":"Well, we're done",
+    "notifcationHead":"Gadwelha Say",
+    "backVertebraeSafetyAlertsNotifcation":"For the safety of the back vertebrae, you need to rest for 10 minutes",
+    "eyeSafetyAlertNotifcation":"For the safety of your eyes, you need to focus on an object far away from you for 20 seconds",
+    "alertDialogTitle":"Are you sure you want to delete this task ?",
+    "alertDialogOptionOne":"Yes",
+    "alertDialogOptionTow":"No",
+    "startCountDowen":"Start a countdown for this task",
+    "timeIsOver":"Time is over"
+
+
+
+
+
+
+}
